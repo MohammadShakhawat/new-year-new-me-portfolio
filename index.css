@@ -286,24 +286,24 @@ line-height: 32px;
 }
 
 .funtionalSectionParents{
-  position: relative;
-  bottom: 0;
+  
+  justify-content: space-between;
+  background-position: bottom;
  
 
 } 
 
 .redImage{
         /* width: 1120px; */
-        position: relative;
+        
+        display: flex;
+        background-image: url(resources/Rectangle\ 1.png);
       
         
 }
 
 .giftImage{
-    position: absolute;
-
-    bottom: 0px;
-    left: 0;
+   display: flex;
 }
         
 
